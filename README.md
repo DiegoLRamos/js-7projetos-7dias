@@ -7,13 +7,13 @@ Desafio 7 Projetos em 7 Dias  Javascript - b7web
 
 Cada tecla ao ser pressionada emite um som diferente. No input "Faça uma composição...", ao adicionar uma sequência de letras e clicar no botão Tocar, será reproduzido o som correspondente a cada tecla em sequência.
 
-![P01](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 01\P01.jpg)
+<img src="./P01.jpg" alt="Projeto 01 - Bateria">
 
 ------
 
 ### Projeto 02 - Relógio Analógico
 
-![P02](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 02\P02.jpg)
+<img src="./P02.jpg" alt="Projeto 02 - Relógio Analógico">
 
 ------
 
@@ -21,29 +21,28 @@ Cada tecla ao ser pressionada emite um som diferente. No input "Faça uma compos
 
 Projeto construído consumindo a API OpenWeather para consulta do clima em tempo real.
 
-![P03](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 03\P03.jpg)
+<img src="./P03.jpg" alt="Projeto 03 - Clima">
 
 ------
 
 ### Projeto 04 - Jogo da velha
 
-![P04](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 04\P04.jpg)
+<img src="./P04.jpg" alt="Projeto 04 - Jogo da velha">
 
 ------
 
 ### Projeto 05 - Desenhando no Canvas
 
-![P05](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 05\P05.jpg)
+<img src="./P05.jpg" alt="Projeto 05 - Desenhando no Canvas">
 
 ------
 
 ### Projeto 06 - Quiz
 
-![P06](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 06\P06.jpg)
+<img src="./P06.jpg" alt="Projeto 06 - Quiz">
 
 ------
 
 ### Projeto 07 - Arrastar e Soltar
 
-![P07](C:\Users\Diego\Desktop\js-7projetos-7dias\Projeto 07\P07.jpg)
-
+<img src="./P07.jpg" alt="Projeto 07 - Arrastar e Soltar">
