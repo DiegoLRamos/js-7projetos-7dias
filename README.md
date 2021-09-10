@@ -4,7 +4,7 @@ Desafio 7 Projetos em 7 Dias  Javascript - b7web
 ------
 
 ## Deploy da Aplicação com Vercel:
-  <a href="https://js-7projetos-7dias-r7cfylzr9-diegolramos.vercel.app/" target="_blank">VEJA TODOS AQUI </p>
+  <a href="https://7projetos-7dias-diegolramos.vercel.app/" target="_blank">VEJA TODOS AQUI </p>
 
 ------
 
