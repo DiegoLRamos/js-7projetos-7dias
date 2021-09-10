@@ -3,6 +3,11 @@ Desafio 7 Projetos em 7 Dias  Javascript - b7web
 
 ------
 
+## Deploy da Aplicação com GitPages:
+  <a href="" target="__blank">VEJA TODOS AQUI </p>
+
+------
+
 ### Projeto 01 - Bateria
 
 Cada tecla ao ser pressionada emite um som diferente. No input "Faça uma composição...", ao adicionar uma sequência de letras e clicar no botão Tocar, será reproduzido o som correspondente a cada tecla em sequência.
